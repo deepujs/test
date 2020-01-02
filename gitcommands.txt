@@ -1,0 +1,10 @@
+commands that are used for git are as following
+git --version
+git status
+for adding file or folder use 
+git add <filel name>
+on adding in git it willl be added to a staging area
+git commit -m "some valid comment to be given"
+on commiting in git, the artefacts are still in the local machine repo managed by git and has not reached to the cloud
+git push
+after push command the changes that are previously commited will reach the cloud repository
